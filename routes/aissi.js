@@ -2,7 +2,7 @@ var express = require('express');
 var router = express.Router();
 
 var geolib = require('geolib')
-
+//
 var ships={}
 var numMessages = 0;
 var msgPerMin = 0;
